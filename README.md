@@ -1,6 +1,6 @@
-# Welcome to Remix + Vite!
+# Scrap Clicker 2
 
-📖 See the [Remix docs](https://remix.run/docs) and the [Remix Vite docs](https://remix.run/docs/en/main/future/vite) for details on supported features.
+Before running the app make sure to set the required environment variables. See `.env.example` for more details.
 
 ## Development
 
